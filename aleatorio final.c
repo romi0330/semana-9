@@ -17,3 +17,16 @@ int main (int argc, char *argv[]) {
         }
         printf("\n");
     }
+    printf("\n");
+    for (int i = 0; i < num1; i++) {
+        for (int j = 0; j < num2; j++) {
+            matriz[j][i];
+            printf("%d ", matriz[j][i]);
+        }
+        printf("\n");
+    }
+    
+
+
+    return 0;
+}
